@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <!-- Laravel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
   <!-- Rust -->
   <img src="https://cdn.simpleicons.org/rust/DEA584" alt="Rust" width="40" height="40"/>
     <!-- Node.js -->

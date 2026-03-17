@@ -30,4 +30,4 @@ https://0-robinson-1.github.io/
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
-<img src="./icons/rapid_robot.svg" alt="ABB RAPID" width="40" />
+ABB RAPID
